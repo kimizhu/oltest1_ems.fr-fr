@@ -31,7 +31,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [.gitignore](https://github.com/kimizhu/oltest1_ems/blob/1c4df4abf580c1d13099d56b8f486574743d8680/.gitignore) | Ignored | [Details](#6b4edbda7411984fc9dbafbbb8e291e0bae6646d0)
- [.localization-config](https://github.com/kimizhu/oltest1_ems/blob/1c4df4abf580c1d13099d56b8f486574743d8680/.localization-config) | Ignored | [Details](#c0ea731ec5ecf9ddc79013219d4fbd8a464e319c1)
+ [.localization-config](https://github.com/kimizhu/oltest1_ems/blob/1c4df4abf580c1d13099d56b8f486574743d8680/.localization-config) | Ignored | [Details](#49f849a405e1bcb7d02711276c0c29ee1c0a8f391)
  [.openpublishing.build.ps1](https://github.com/kimizhu/oltest1_ems/blob/1c4df4abf580c1d13099d56b8f486574743d8680/.openpublishing.build.ps1) | Ignored | [Details](#06f04686df47f623e5fca8039712d22134e6d5a82)
  [.openpublishing.publish.config.json](https://github.com/kimizhu/oltest1_ems/blob/1c4df4abf580c1d13099d56b8f486574743d8680/.openpublishing.publish.config.json) | Ignored | [Details](#d7e7cf4ea86e982ce07327781d60d73311ea59523)
  [oltest1_ems\v1\docfx.json](https://github.com/kimizhu/oltest1_ems/blob/1c4df4abf580c1d13099d56b8f486574743d8680/oltest1_ems/v1/docfx.json) | Ignored | [Details](#9259263ca2b1ad02869601989bf14dbbc52c4f924)
@@ -97,7 +97,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c0ea731ec5ecf9ddc79013219d4fbd8a464e319c1'></a> Source: [.localization-config](https://github.com/kimizhu/oltest1_ems/blob/1c4df4abf580c1d13099d56b8f486574743d8680/.localization-config)
+##### <a name='49f849a405e1bcb7d02711276c0c29ee1c0a8f391'></a> Source: [.localization-config](https://github.com/kimizhu/oltest1_ems/blob/1c4df4abf580c1d13099d56b8f486574743d8680/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
