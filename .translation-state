@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "9798dc0eb649b7ac75c9199347cad14b3ca8eff8",
+  "LastProcessedCommit": "2b921787679374ac4efc3b0efd8c50955d2da438",
   "LastTranslatedCommit": "cb865ef72054a5d0c8445d70811c944e07e29d49",
   "Items": {
     "5eac3f12f94f18d6da8d5191fbc2087b8baa461e": {
@@ -58,7 +58,7 @@
     },
     "37eebe7c7d8e52eb31e73bd024985eac7486d0a3": {
       "FileHash": "37eebe7c7d8e52eb31e73bd024985eac7486d0a3",
-      "SourceFileCommit": "490ca3925f411e51c7efac0b154545686b7f8377",
+      "SourceFileCommit": "2b921787679374ac4efc3b0efd8c50955d2da438",
       "SourceFilePath": "oltest1_ems\\v1\\Image\\4-aadp_assess_phase-v3.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -70,8 +70,8 @@
         "oltest1_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_assess_phase_v6.png"
       ],
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png",
-      "HandoffFileCommit": "93a209c81617527f9a36b7c0348bbd62e346c108",
-      "HandoffDateTime": "2016-01-18T07:57:49.620869Z",
+      "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
+      "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -89,7 +89,7 @@
     },
     "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3": {
       "FileHash": "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3",
-      "SourceFileCommit": "490ca3925f411e51c7efac0b154545686b7f8377",
+      "SourceFileCommit": "2b921787679374ac4efc3b0efd8c50955d2da438",
       "SourceFilePath": "oltest1_ems\\v1\\Image\\Enable_phase_Intune_11-20-15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -99,8 +99,8 @@
         "oltest1_ems\\v1\\Image\\Enable_phase_Intune_11-20-15.png"
       ],
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\f0db5300f58aef37da4c0f87bc02e14cbd2c51f3.png",
-      "HandoffFileCommit": "93a209c81617527f9a36b7c0348bbd62e346c108",
-      "HandoffDateTime": "2016-01-18T07:57:49.620869Z",
+      "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
+      "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -118,7 +118,7 @@
     },
     "989a623c0d4d648a6411d300d24e7b166b79dcc5": {
       "FileHash": "989a623c0d4d648a6411d300d24e7b166b79dcc5",
-      "SourceFileCommit": "490ca3925f411e51c7efac0b154545686b7f8377",
+      "SourceFileCommit": "2b921787679374ac4efc3b0efd8c50955d2da438",
       "SourceFilePath": "oltest1_ems\\v1\\Image\\Intune_assess_phase_9-15-15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -128,8 +128,8 @@
         "oltest1_ems\\v1\\Image\\Intune_assess_phase_9-15-15.png"
       ],
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\989a623c0d4d648a6411d300d24e7b166b79dcc5.png",
-      "HandoffFileCommit": "93a209c81617527f9a36b7c0348bbd62e346c108",
-      "HandoffDateTime": "2016-01-18T07:57:49.620869Z",
+      "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
+      "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -147,7 +147,7 @@
     },
     "468d344e2a354c889a0b77b3f0a7796d27208641": {
       "FileHash": "468d344e2a354c889a0b77b3f0a7796d27208641",
-      "SourceFileCommit": "490ca3925f411e51c7efac0b154545686b7f8377",
+      "SourceFileCommit": "2b921787679374ac4efc3b0efd8c50955d2da438",
       "SourceFilePath": "oltest1_ems\\v1\\Image\\Intune_enable_phase_core_9-15-15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -157,8 +157,8 @@
         "oltest1_ems\\v1\\Image\\Intune_enable_phase_core_9-15-15.png"
       ],
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\468d344e2a354c889a0b77b3f0a7796d27208641.png",
-      "HandoffFileCommit": "93a209c81617527f9a36b7c0348bbd62e346c108",
-      "HandoffDateTime": "2016-01-18T07:57:49.620869Z",
+      "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
+      "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -230,7 +230,7 @@
     },
     "f0021622ea4a945d276e049e1f53980ef5bbcb47": {
       "FileHash": "f0021622ea4a945d276e049e1f53980ef5bbcb47",
-      "SourceFileCommit": "490ca3925f411e51c7efac0b154545686b7f8377",
+      "SourceFileCommit": "2b921787679374ac4efc3b0efd8c50955d2da438",
       "SourceFilePath": "oltest1_ems\\v1\\Image\\Intune_initiate_phase_9-15-15_v2.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -240,8 +240,8 @@
         "oltest1_ems\\v1\\Image\\Intune_initiate_phase_9-15-15_v2.png"
       ],
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\f0021622ea4a945d276e049e1f53980ef5bbcb47.png",
-      "HandoffFileCommit": "93a209c81617527f9a36b7c0348bbd62e346c108",
-      "HandoffDateTime": "2016-01-18T07:57:49.620869Z",
+      "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
+      "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -259,7 +259,7 @@
     },
     "01dceb32e182d5a32c095ee441855d58848f2ef2": {
       "FileHash": "01dceb32e182d5a32c095ee441855d58848f2ef2",
-      "SourceFileCommit": "490ca3925f411e51c7efac0b154545686b7f8377",
+      "SourceFileCommit": "2b921787679374ac4efc3b0efd8c50955d2da438",
       "SourceFilePath": "oltest1_ems\\v1\\Image\\Intune_onboarding_phases_9-15-15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -271,8 +271,8 @@
         "oltest1_ems\\v1\\Image\\Intune_onboarding_phases_9-15-15.png"
       ],
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\01dceb32e182d5a32c095ee441855d58848f2ef2.png",
-      "HandoffFileCommit": "93a209c81617527f9a36b7c0348bbd62e346c108",
-      "HandoffDateTime": "2016-01-18T07:57:49.620869Z",
+      "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
+      "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -652,7 +652,7 @@
     },
     "d7641e47928129e58192ac12d9e36cd56c57be4d": {
       "FileHash": "d7641e47928129e58192ac12d9e36cd56c57be4d",
-      "SourceFileCommit": "9798dc0eb649b7ac75c9199347cad14b3ca8eff8",
+      "SourceFileCommit": "2b921787679374ac4efc3b0efd8c50955d2da438",
       "SourceFilePath": "oltest1_ems\\v1\\Image\\1-rms_onboarding_process.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -664,8 +664,8 @@
         "oltest1_ems\\v1\\Image\\1-rms_onboarding_process.png"
       ],
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\d7641e47928129e58192ac12d9e36cd56c57be4d.png",
-      "HandoffFileCommit": "93a209c81617527f9a36b7c0348bbd62e346c108",
-      "HandoffDateTime": "2016-01-18T07:57:49.620869Z",
+      "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
+      "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -693,6 +693,33 @@
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\TOC.4fd5789eb4f0ba77a630defb7bcc8281cb279aa2.fr-fr.xlf",
       "HandoffFileCommit": "93a209c81617527f9a36b7c0348bbd62e346c108",
       "HandoffDateTime": "2016-01-18T07:57:49.620869Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "643f7873f73f8a9110ba3a189f5f27e808f657b6": {
+      "FileHash": "643f7873f73f8a9110ba3a189f5f27e808f657b6",
+      "SourceFileCommit": "2b921787679374ac4efc3b0efd8c50955d2da438",
+      "SourceFilePath": "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Intune.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Intune.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\FastTrack_Center_Benefit_for_Intune.fcdf02db42b52969d4f83302c6de3c3019ee4610.fr-fr.xlf",
+      "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
+      "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
