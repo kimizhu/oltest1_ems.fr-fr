@@ -167,11 +167,11 @@
 * Handoff File: [d7641e47928129e58192ac12d9e36cd56c57be4d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/0ce47db91bf34fd5c779395f71e1a6274b109806/ol-handoff/kimizhu/oltest1_ems.fr-fr/master/d7641e47928129e58192ac12d9e36cd56c57be4d.png)
 * Handoff Datetime: 2016-01-27 06:56:34
 * Handoff Reason: IsDependency
+* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * [Back to Top](#report-top)
 
 ##### <a name='0478b1d6b50ed08e780f0de7ba57e26d9a653c707'></a> Source: [oltest1_ems\v1\Image\2-aadp_onboarding_phases-v3.png](https://github.com/kimizhu/oltest1_ems/blob/490ca3925f411e51c7efac0b154545686b7f8377/oltest1_ems/v1/Image/2-aadp_onboarding_phases-v3.png)
@@ -192,11 +192,11 @@
 * Handoff File: [37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/0ce47db91bf34fd5c779395f71e1a6274b109806/ol-handoff/kimizhu/oltest1_ems.fr-fr/master/37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png)
 * Handoff Datetime: 2016-01-27 06:56:34
 * Handoff Reason: IsDependency
+* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md
 * [Back to Top](#report-top)
 
 ##### <a name='c35f1ea3e19ceb9319688b7b85b0cce91505ebbe9'></a> Source: [oltest1_ems\v1\Image\4-aadp_assess_phase-v4.png](https://github.com/kimizhu/oltest1_ems/blob/2b921787679374ac4efc3b0efd8c50955d2da438/oltest1_ems/v1/Image/4-aadp_assess_phase-v4.png)
@@ -217,11 +217,11 @@
 * Handoff File: [37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/0ce47db91bf34fd5c779395f71e1a6274b109806/ol-handoff/kimizhu/oltest1_ems.fr-fr/master/37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png)
 * Handoff Datetime: 2016-01-27 06:56:34
 * Handoff Reason: IsDependency
+* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md
 * [Back to Top](#report-top)
 
 ##### <a name='f0db5300f58aef37da4c0f87bc02e14cbd2c51f311'></a> Source: [oltest1_ems\v1\Image\Enable_phase_Intune_11-20-15.png](https://github.com/kimizhu/oltest1_ems/blob/2b921787679374ac4efc3b0efd8c50955d2da438/oltest1_ems/v1/Image/Enable_phase_Intune_11-20-15.png)
@@ -230,11 +230,11 @@
 * Handoff File: [f0db5300f58aef37da4c0f87bc02e14cbd2c51f3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/0ce47db91bf34fd5c779395f71e1a6274b109806/ol-handoff/kimizhu/oltest1_ems.fr-fr/master/f0db5300f58aef37da4c0f87bc02e14cbd2c51f3.png)
 * Handoff Datetime: 2016-01-27 06:56:34
 * Handoff Reason: IsDependency
+* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * [Back to Top](#report-top)
 
 ##### <a name='989a623c0d4d648a6411d300d24e7b166b79dcc512'></a> Source: [oltest1_ems\v1\Image\Intune_assess_phase_9-15-15.png](https://github.com/kimizhu/oltest1_ems/blob/2b921787679374ac4efc3b0efd8c50955d2da438/oltest1_ems/v1/Image/Intune_assess_phase_9-15-15.png)
@@ -243,11 +243,11 @@
 * Handoff File: [989a623c0d4d648a6411d300d24e7b166b79dcc5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/0ce47db91bf34fd5c779395f71e1a6274b109806/ol-handoff/kimizhu/oltest1_ems.fr-fr/master/989a623c0d4d648a6411d300d24e7b166b79dcc5.png)
 * Handoff Datetime: 2016-01-27 06:56:34
 * Handoff Reason: IsDependency
+* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * [Back to Top](#report-top)
 
 ##### <a name='468d344e2a354c889a0b77b3f0a7796d2720864113'></a> Source: [oltest1_ems\v1\Image\Intune_enable_phase_core_9-15-15.png](https://github.com/kimizhu/oltest1_ems/blob/2b921787679374ac4efc3b0efd8c50955d2da438/oltest1_ems/v1/Image/Intune_enable_phase_core_9-15-15.png)
@@ -256,11 +256,11 @@
 * Handoff File: [468d344e2a354c889a0b77b3f0a7796d27208641.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/0ce47db91bf34fd5c779395f71e1a6274b109806/ol-handoff/kimizhu/oltest1_ems.fr-fr/master/468d344e2a354c889a0b77b3f0a7796d27208641.png)
 * Handoff Datetime: 2016-01-27 06:56:34
 * Handoff Reason: IsDependency
+* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * [Back to Top](#report-top)
 
 ##### <a name='2bc0c71f97011edd2d72fb6191548a27ce19949c14'></a> Source: [oltest1_ems\v1\Image\Intune_enable_phase_sccm_9-15-15.png](https://github.com/kimizhu/oltest1_ems/blob/490ca3925f411e51c7efac0b154545686b7f8377/oltest1_ems/v1/Image/Intune_enable_phase_sccm_9-15-15.png)
@@ -293,11 +293,11 @@
 * Handoff File: [f0021622ea4a945d276e049e1f53980ef5bbcb47.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/0ce47db91bf34fd5c779395f71e1a6274b109806/ol-handoff/kimizhu/oltest1_ems.fr-fr/master/f0021622ea4a945d276e049e1f53980ef5bbcb47.png)
 * Handoff Datetime: 2016-01-27 06:56:34
 * Handoff Reason: IsDependency
+* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * [Back to Top](#report-top)
 
 ##### <a name='01dceb32e182d5a32c095ee441855d58848f2ef217'></a> Source: [oltest1_ems\v1\Image\Intune_onboarding_phases_9-15-15.png](https://github.com/kimizhu/oltest1_ems/blob/2b921787679374ac4efc3b0efd8c50955d2da438/oltest1_ems/v1/Image/Intune_onboarding_phases_9-15-15.png)
@@ -306,11 +306,11 @@
 * Handoff File: [01dceb32e182d5a32c095ee441855d58848f2ef2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/0ce47db91bf34fd5c779395f71e1a6274b109806/ol-handoff/kimizhu/oltest1_ems.fr-fr/master/01dceb32e182d5a32c095ee441855d58848f2ef2.png)
 * Handoff Datetime: 2016-01-27 06:56:34
 * Handoff Reason: IsDependency
+* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Intune.md
 * [Back to Top](#report-top)
 
 ##### <a name='cff679acaea06114e77da7e149b6810504c43b0d18'></a> Source: [oltest1_ems\v1\Image\Intune_onboarding_process_10-7-15_old.png](https://github.com/kimizhu/oltest1_ems/blob/2b921787679374ac4efc3b0efd8c50955d2da438/oltest1_ems/v1/Image/Intune_onboarding_process_10-7-15_old.png)
@@ -367,11 +367,11 @@
 * Handoff File: [37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/0ce47db91bf34fd5c779395f71e1a6274b109806/ol-handoff/kimizhu/oltest1_ems.fr-fr/master/37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png)
 * Handoff Datetime: 2016-01-27 06:56:34
 * Handoff Reason: IsDependency
+* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md, oltest1_ems\v1\Topic\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md
 * [Back to Top](#report-top)
 
 ##### <a name='26daa6e1884a8ce4de143613028982078df2177223'></a> Source: [oltest1_ems\v1\Image\Microsoft_Azure_AD_Premium_enable_phase_1.png](https://github.com/kimizhu/oltest1_ems/blob/2b921787679374ac4efc3b0efd8c50955d2da438/oltest1_ems/v1/Image/Microsoft_Azure_AD_Premium_enable_phase_1.png)
