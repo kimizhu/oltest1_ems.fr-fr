@@ -13,6 +13,7 @@
         "oltest1_ems\\v1\\Image\\1-aadp_onboarding_process-v3.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -47,6 +48,7 @@
         "oltest1_ems\\v1\\Image\\2-aadp_onboarding_phases-v3.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -85,6 +87,7 @@
         "oltest1_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_assess_phase_v6.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png",
       "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
       "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
@@ -121,6 +124,7 @@
         "oltest1_ems\\v1\\Image\\Enable_phase_Intune_11-20-15.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\f0db5300f58aef37da4c0f87bc02e14cbd2c51f3.png",
       "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
       "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
@@ -157,6 +161,7 @@
         "oltest1_ems\\v1\\Image\\Intune_assess_phase_9-15-15.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\989a623c0d4d648a6411d300d24e7b166b79dcc5.png",
       "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
       "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
@@ -193,6 +198,7 @@
         "oltest1_ems\\v1\\Image\\Intune_enable_phase_core_9-15-15.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\468d344e2a354c889a0b77b3f0a7796d27208641.png",
       "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
       "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
@@ -227,6 +233,7 @@
         "oltest1_ems\\v1\\Image\\Intune_enable_phase_sccm_9-15-15.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -261,6 +268,7 @@
         "oltest1_ems\\v1\\Image\\Intune_enable_phase_standalone_9-15-15.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -297,6 +305,7 @@
         "oltest1_ems\\v1\\Image\\Intune_initiate_phase_9-15-15_v2.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\f0021622ea4a945d276e049e1f53980ef5bbcb47.png",
       "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
       "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
@@ -335,6 +344,7 @@
         "oltest1_ems\\v1\\Image\\Intune_onboarding_phases_9-15-15.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\01dceb32e182d5a32c095ee441855d58848f2ef2.png",
       "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
       "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
@@ -369,6 +379,7 @@
         "oltest1_ems\\v1\\Image\\Intune_onboarding_process_10-7-15_v2.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -403,6 +414,7 @@
         "oltest1_ems\\v1\\Image\\Intune_onboarding_process_9-15-15.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -440,6 +452,7 @@
         "oltest1_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_enable_phase_2.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -477,6 +490,7 @@
         "oltest1_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_initiate_phase_1.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -514,6 +528,7 @@
         "oltest1_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_remediate_phase_1.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -550,6 +565,7 @@
         "oltest1_ems\\v1\\Image\\Microsoft_Intune_onboarding_remediate_phase_1.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -584,6 +600,7 @@
         "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Active_Directory_Premium.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -618,6 +635,7 @@
         "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Rights_Management.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -652,6 +670,7 @@
         "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Enterprise_Mobility_Suite.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -686,6 +705,7 @@
         "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Intune.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -720,6 +740,7 @@
         "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -754,6 +775,7 @@
         "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -788,6 +810,7 @@
         "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Intune.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "0001-01-01T00:00:00",
@@ -826,6 +849,7 @@
         "oltest1_ems\\v1\\Image\\1-rms_onboarding_process.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\d7641e47928129e58192ac12d9e36cd56c57be4d.png",
       "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
       "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
@@ -860,6 +884,7 @@
         "oltest1_ems\\v1\\Topic\\TOC.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\TOC.4fd5789eb4f0ba77a630defb7bcc8281cb279aa2.fr-fr.xlf",
       "HandoffFileCommit": "93a209c81617527f9a36b7c0348bbd62e346c108",
       "HandoffDateTime": "2016-01-18T07:57:49.620869Z",
@@ -894,6 +919,7 @@
         "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Intune.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\kimizhu\\oltest1_ems.fr-fr\\master\\FastTrack_Center_Benefit_for_Intune.fcdf02db42b52969d4f83302c6de3c3019ee4610.fr-fr.xlf",
       "HandoffFileCommit": "0ce47db91bf34fd5c779395f71e1a6274b109806",
       "HandoffDateTime": "2016-01-27T06:56:34.1286975Z",
