@@ -1,3 +1,64 @@
 {
-  "Table": {}
+  "Table": {
+    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md.77d511e3e44db45b100429b360d52059314d89a3.HT": {
+      "SourceFilename": "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md",
+      "XliffHash": "77d511e3e44db45b100429b360d52059314d89a3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\kimizhu\\oltest1_ems.fr-fr\\master\\5ecc82eaab94a1d8debd346acb4d48628444c85b.75760be7a88cc96c343467ef75899a7aac9f5dd2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Intune.md.e426acde8975f8e880d92754230dd6591b827ac4.HT": {
+      "SourceFilename": "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Intune.md",
+      "XliffHash": "e426acde8975f8e880d92754230dd6591b827ac4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\kimizhu\\oltest1_ems.fr-fr\\master\\07d28487db7c5128d9b2e6e74acb7f9000e76f39.29d5feb8acb3cbbd600fe6627329a0b84cec1d88.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Rights_Management.md.e0840c52a4fc41471795434544d20fbcdf2f5782.HT": {
+      "SourceFilename": "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Rights_Management.md",
+      "XliffHash": "e0840c52a4fc41471795434544d20fbcdf2f5782",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\kimizhu\\oltest1_ems.fr-fr\\master\\8192039d457a28fce44cae1ae750827fdc1cdd6a.d195365c700280f2545ffd82ef2c314d1a201968.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Enterprise_Mobility_Suite.md.0eb0c9ebdf979a5faeb822745dd839bdd1815b26.HT": {
+      "SourceFilename": "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Enterprise_Mobility_Suite.md",
+      "XliffHash": "0eb0c9ebdf979a5faeb822745dd839bdd1815b26",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\kimizhu\\oltest1_ems.fr-fr\\master\\9320007a6c2e404e8829e66dece0fa3a7378f073.d97395735031accf8050cba8b6a11019cef04caa.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md.dd9d176baddde9247b4e44b67578200cba4b9eca.HT": {
+      "SourceFilename": "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md",
+      "XliffHash": "dd9d176baddde9247b4e44b67578200cba4b9eca",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\kimizhu\\oltest1_ems.fr-fr\\master\\0f404030cdad3d9ebdc4150c4b5141e7cdc87220.e403c54895a7a66893080fcb845587f7a0956b3f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Active_Directory_Premium.md.4eb909622b749acfca84345a9af31b4568014522.HT": {
+      "SourceFilename": "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Active_Directory_Premium.md",
+      "XliffHash": "4eb909622b749acfca84345a9af31b4568014522",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\kimizhu\\oltest1_ems.fr-fr\\master\\48cfedc38132a724628e4d5eaa0e00c8326d65e8.2748a02838ae8ac26cc598c2d57805c64810bd81.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    }
+  }
 }
